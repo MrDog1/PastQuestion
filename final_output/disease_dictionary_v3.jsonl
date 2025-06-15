@@ -1,0 +1,10 @@
+{"canonical_ja": "腺癌", "canonical_en": "", "category": "Disease", "synonyms": ["adenocarcinoma", "腺癌（頸部腺癌）", "腺癌", "3） 腺癌，Gleason score 3+4=7", "4） 腺癌（大腸癌）", "腺癌（類内膜癌）"], "regex": "腺癌|adenocarcinoma", "frequency": 18, "variations_merged": 7}
+{"canonical_ja": "小細胞癌", "canonical_en": "", "category": "Disease", "synonyms": ["小細胞癌（CD56,Chromogranin A,Synaptophysin）", "小細胞癌", "5） 小細胞癌", "small cell carcinoma", "小細胞癌（高カルシウム血症性）"], "regex": "小細胞癌|small\\s+cell\\s+carcinoma", "frequency": 12, "variations_merged": 3}
+{"canonical_ja": "悪性黒色腫", "canonical_en": "", "category": "Disease", "synonyms": ["悪性黒色腫", "5）悪性黒色腫"], "regex": "悪性黒色腫", "frequency": 11, "variations_merged": 1}
+{"canonical_ja": "髄様癌", "canonical_en": "", "category": "Disease", "synonyms": ["髄様癌", "髄様癌（MLH1などのDNA mismatch修飾を伴う場合あり）", "髄様癌（medullary carcinoma）", "髄様癌（Microsatellite instability High / MLH1 発現消失）"], "regex": "髄様癌", "frequency": 10, "variations_merged": 4}
+{"canonical_ja": "顆粒細胞腫", "canonical_en": "", "category": "Disease", "synonyms": ["顆粒細胞腫", "顆粒細胞腫（S-100陽性）"], "regex": "顆粒細胞腫", "frequency": 10, "variations_merged": 1}
+{"canonical_ja": "扁平上皮癌", "canonical_en": "", "category": "Disease", "synonyms": ["扁平上皮癌", "2） 扁平上皮癌", "4）扁平上皮癌", "SCC"], "regex": "扁平上皮癌|squamous\\s+cell\\s+carcinoma|SCC", "frequency": 9, "variations_merged": 2}
+{"canonical_ja": "アミロイドーシス", "canonical_en": "", "category": "Disease", "synonyms": ["アミロイドーシス", "アミロイドーシス（Congo red染色）", "アミロイドーシス（amyloidosis）"], "regex": "アミロイドーシス", "frequency": 8, "variations_merged": 2}
+{"canonical_ja": "エナメル上皮腫", "canonical_en": "", "category": "Disease", "synonyms": ["エナメル上皮腫", "エナメル上皮腫（ameloblastoma）"], "regex": "エナメル上皮腫", "frequency": 7, "variations_merged": 1}
+{"canonical_ja": "腺様嚢胞癌", "canonical_en": "", "category": "Disease", "synonyms": ["腺様嚢胞癌"], "regex": "腺様嚢胞癌", "frequency": 7, "variations_merged": 0}
+{"canonical_ja": "浸潤性微小乳頭癌", "canonical_en": "", "category": "Disease", "synonyms": ["浸潤性微小乳頭癌", "4）浸潤性微小乳頭癌", "浸潤性微小乳頭癌（invasive micropapillary carcinoma）"], "regex": "浸潤性微小乳頭癌", "frequency": 7, "variations_merged": 2}
